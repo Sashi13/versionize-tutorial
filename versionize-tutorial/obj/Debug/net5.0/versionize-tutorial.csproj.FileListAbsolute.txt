@@ -1,0 +1,16 @@
+D:\Projects\Tutorial\Versionize\versionize-tutorial\versionize-tutorial\bin\Debug\net5.0\versionize-tutorial.exe
+D:\Projects\Tutorial\Versionize\versionize-tutorial\versionize-tutorial\bin\Debug\net5.0\versionize-tutorial.deps.json
+D:\Projects\Tutorial\Versionize\versionize-tutorial\versionize-tutorial\bin\Debug\net5.0\versionize-tutorial.runtimeconfig.json
+D:\Projects\Tutorial\Versionize\versionize-tutorial\versionize-tutorial\bin\Debug\net5.0\versionize-tutorial.runtimeconfig.dev.json
+D:\Projects\Tutorial\Versionize\versionize-tutorial\versionize-tutorial\bin\Debug\net5.0\versionize-tutorial.dll
+D:\Projects\Tutorial\Versionize\versionize-tutorial\versionize-tutorial\bin\Debug\net5.0\ref\versionize-tutorial.dll
+D:\Projects\Tutorial\Versionize\versionize-tutorial\versionize-tutorial\bin\Debug\net5.0\versionize-tutorial.pdb
+D:\Projects\Tutorial\Versionize\versionize-tutorial\versionize-tutorial\obj\Debug\net5.0\versionize-tutorial.csproj.AssemblyReference.cache
+D:\Projects\Tutorial\Versionize\versionize-tutorial\versionize-tutorial\obj\Debug\net5.0\versionize-tutorial.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Tutorial\Versionize\versionize-tutorial\versionize-tutorial\obj\Debug\net5.0\versionize-tutorial.AssemblyInfoInputs.cache
+D:\Projects\Tutorial\Versionize\versionize-tutorial\versionize-tutorial\obj\Debug\net5.0\versionize-tutorial.AssemblyInfo.cs
+D:\Projects\Tutorial\Versionize\versionize-tutorial\versionize-tutorial\obj\Debug\net5.0\versionize-tutorial.csproj.CoreCompileInputs.cache
+D:\Projects\Tutorial\Versionize\versionize-tutorial\versionize-tutorial\obj\Debug\net5.0\versionize-tutorial.dll
+D:\Projects\Tutorial\Versionize\versionize-tutorial\versionize-tutorial\obj\Debug\net5.0\ref\versionize-tutorial.dll
+D:\Projects\Tutorial\Versionize\versionize-tutorial\versionize-tutorial\obj\Debug\net5.0\versionize-tutorial.pdb
+D:\Projects\Tutorial\Versionize\versionize-tutorial\versionize-tutorial\obj\Debug\net5.0\versionize-tutorial.genruntimeconfig.cache
