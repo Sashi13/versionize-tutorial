@@ -13,7 +13,7 @@
     "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
-    "version": "1.1.0",
+    "version": "1.1.1",
     "restore": {
       "projectUniqueName": "D:\\Projects\\Tutorial\\Versionize\\versionize-tutorial\\versionize-tutorial\\versionize-tutorial.csproj",
       "projectName": "versionize-tutorial",
