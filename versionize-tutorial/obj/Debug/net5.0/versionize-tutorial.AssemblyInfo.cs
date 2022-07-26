@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("versionize-tutorial")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.1.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.1.0-alpha.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.1.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("versionize-tutorial")]
 [assembly: System.Reflection.AssemblyTitleAttribute("versionize-tutorial")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.1.0.0")]
