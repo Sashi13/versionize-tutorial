@@ -2,6 +2,9 @@
 
 All notable changes to this project will be documented in this file. See [versionize](https://github.com/versionize/versionize) for commit guidelines.
 
+<a name="1.1.0"></a>
+## [1.1.0](https://www.github.com/Sashi13/versionize-tutorial/releases/tag/v1.1.0) (2022-7-26)
+
 <a name="1.1.0-alpha.0"></a>
 ## [1.1.0-alpha.0](https://www.github.com/Sashi13/versionize-tutorial/releases/tag/v1.1.0-alpha.0) (2022-7-26)
 
