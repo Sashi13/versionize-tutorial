@@ -2,6 +2,17 @@
 
 All notable changes to this project will be documented in this file. See [versionize](https://github.com/versionize/versionize) for commit guidelines.
 
+<a name="4.1.2"></a>
+## [4.1.2](https://www.github.com/Sashi13/versionize-tutorial/releases/tag/v4.1.2) (2022-7-27)
+
+### Bug Fixes
+
+* fix only ([af95fc8](https://www.github.com/Sashi13/versionize-tutorial/commit/af95fc8a2fcc245b38ac2198cb1b0ca12f685ba0))
+
+### Other
+
+* test ([32e3ad9](https://www.github.com/Sashi13/versionize-tutorial/commit/32e3ad998d35c521641f9ac9cbe998597b1a34d0))
+
 <a name="4.1.1"></a>
 ## [4.1.1](https://www.github.com/Sashi13/versionize-tutorial/releases/tag/v4.1.1) (2022-7-27)
 
