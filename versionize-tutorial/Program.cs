@@ -12,6 +12,8 @@ namespace versionize_tutorial
             Console.WriteLine("Test4");
             Console.WriteLine("Test5");
             Console.WriteLine("Test6");
+            Console.WriteLine("Test7");
+
         }
     }
 }
