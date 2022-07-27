@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [versionize](https://github.com/versionize/versionize) for commit guidelines.
 
+<a name="3.0.1"></a>
+## [3.0.1](https://www.github.com/Sashi13/versionize-tutorial/releases/tag/v3.0.1) (2022-7-27)
+
+### Bug Fixes
+
+* testing ([ae5339a](https://www.github.com/Sashi13/versionize-tutorial/commit/ae5339a9f90e520c62c64072ce737f15d244ef1e))
+
 <a name="3.0.0"></a>
 ## [3.0.0](https://www.github.com/Sashi13/versionize-tutorial/releases/tag/v3.0.0) (2022-7-27)
 
