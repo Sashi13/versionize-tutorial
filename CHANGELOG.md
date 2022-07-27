@@ -2,6 +2,25 @@
 
 All notable changes to this project will be documented in this file. See [versionize](https://github.com/versionize/versionize) for commit guidelines.
 
+<a name="2.3.1"></a>
+## [2.3.1](https://www.github.com/Sashi13/versionize-tutorial/releases/tag/v2.3.1) (2022-7-27)
+
+### Bug Fixes
+
+* test 2 ([043cf25](https://www.github.com/Sashi13/versionize-tutorial/commit/043cf252b5f041b90f3cd2698e2b7f9df24dc36b))
+* update some ([7393ac7](https://www.github.com/Sashi13/versionize-tutorial/commit/7393ac7fa06c94ac42dec0695549d905734fa929))
+
+### Other
+
+* Create ci.yml ([0ea5c81](https://www.github.com/Sashi13/versionize-tutorial/commit/0ea5c81397bf39b46fb9c6f9d5631cb12e3bd895))
+* Create publish.yml ([5c878ca](https://www.github.com/Sashi13/versionize-tutorial/commit/5c878ca24c29f188ec8c64eb6a6f9712208e423a))
+* Merge branch 'master' of https://github.com/Sashi13/versionize-tutorial ([2cf09bd](https://www.github.com/Sashi13/versionize-tutorial/commit/2cf09bd556927312841ac84e22e11bed6cd192f2))
+* Merge branch 'master' of https://github.com/Sashi13/versionize-tutorial ([70421f6](https://www.github.com/Sashi13/versionize-tutorial/commit/70421f6dd3cf1f64c69a6f11046edd33670b7ae3))
+* Update ci.yml ([9f740e7](https://www.github.com/Sashi13/versionize-tutorial/commit/9f740e7e14546ea5541a84e215ee6f84c39d2c95))
+* Update ci.yml ([4b66eab](https://www.github.com/Sashi13/versionize-tutorial/commit/4b66eab51ba56d82bd3ce5d2d8290dad9a876061))
+* Update publish.yml ([95fcfa3](https://www.github.com/Sashi13/versionize-tutorial/commit/95fcfa3dbab0f67807eb8a4ac6fa9f96db8dfdb8))
+* Update publish.yml ([d95c569](https://www.github.com/Sashi13/versionize-tutorial/commit/d95c5697ad0b6be1fba265f1a77f90d40909e8b3))
+
 <a name="2.3.0"></a>
 ## [2.3.0](https://www.github.com/Sashi13/versionize-tutorial/releases/tag/v2.3.0) (2022-7-27)
 
