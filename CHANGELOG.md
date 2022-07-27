@@ -2,6 +2,17 @@
 
 All notable changes to this project will be documented in this file. See [versionize](https://github.com/versionize/versionize) for commit guidelines.
 
+<a name="6.0.0"></a>
+## [6.0.0](https://www.github.com/Sashi13/versionize-tutorial/releases/tag/v6.0.0) (2022-7-27)
+
+### Breaking Changes
+
+* testing ([2152c99](https://www.github.com/Sashi13/versionize-tutorial/commit/2152c9997b75d21c963b88f9374bd1c68a1b838b))
+
+### Other
+
+* Merge branch 'master' of https://github.com/Sashi13/versionize-tutorial ([4ccfb84](https://www.github.com/Sashi13/versionize-tutorial/commit/4ccfb8430da5e1786d24c48111c7700ec0401013))
+
 <a name="5.0.0"></a>
 ## [5.0.0](https://www.github.com/Sashi13/versionize-tutorial/releases/tag/v5.0.0) (2022-7-27)
 
