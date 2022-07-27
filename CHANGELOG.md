@@ -2,6 +2,17 @@
 
 All notable changes to this project will be documented in this file. See [versionize](https://github.com/versionize/versionize) for commit guidelines.
 
+<a name="2.5.0"></a>
+## [2.5.0](https://www.github.com/Sashi13/versionize-tutorial/releases/tag/v2.5.0) (2022-7-27)
+
+### Features
+
+* test BREAKING CHANGE: TEST ([a3e05c1](https://www.github.com/Sashi13/versionize-tutorial/commit/a3e05c1678280825100f25b0fd9d283b095d1033))
+
+### Other
+
+* Merge branch 'master' of https://github.com/Sashi13/versionize-tutorial ([c58a57c](https://www.github.com/Sashi13/versionize-tutorial/commit/c58a57c7423362e11a77c84f079daef1f14322c4))
+
 <a name="2.4.2"></a>
 ## [2.4.2](https://www.github.com/Sashi13/versionize-tutorial/releases/tag/v2.4.2) (2022-7-27)
 
