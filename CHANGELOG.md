@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [versionize](https://github.com/versionize/versionize) for commit guidelines.
 
+<a name="2.2.3"></a>
+## [2.2.3](https://www.github.com/Sashi13/versionize-tutorial/releases/tag/v2.2.3) (2022-7-27)
+
+### Bug Fixes
+
+* update program.cs ([a84a2cb](https://www.github.com/Sashi13/versionize-tutorial/commit/a84a2cb8377853ae2fbced440b7b1cff32754b5c))
+
 <a name="2.2.2"></a>
 ## [2.2.2](https://www.github.com/Sashi13/versionize-tutorial/releases/tag/v2.2.2) (2022-7-27)
 
