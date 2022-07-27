@@ -2,6 +2,17 @@
 
 All notable changes to this project will be documented in this file. See [versionize](https://github.com/versionize/versionize) for commit guidelines.
 
+<a name="2.4.1"></a>
+## [2.4.1](https://www.github.com/Sashi13/versionize-tutorial/releases/tag/v2.4.1) (2022-7-27)
+
+### Bug Fixes
+
+* woi ([938df2b](https://www.github.com/Sashi13/versionize-tutorial/commit/938df2b33a53a1505c9ed1d53dff8feecc094732))
+
+### Other
+
+* Merge branch 'master' of https://github.com/Sashi13/versionize-tutorial ([9c5b517](https://www.github.com/Sashi13/versionize-tutorial/commit/9c5b517381afe21e0fb4a411e8d384f401c7d99b))
+
 <a name="2.4.0"></a>
 ## [2.4.0](https://www.github.com/Sashi13/versionize-tutorial/releases/tag/v2.4.0) (2022-7-27)
 
