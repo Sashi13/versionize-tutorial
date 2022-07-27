@@ -22,9 +22,10 @@ jobs:
           git config --local user.name "github-actions[bot]"
       - name: Versionize Release
         id: versionize
-        run: versionize --changelog-all --exit-insignificant-commits
+        run: |
+          versionize --changelog-all --exit-insignificant-commits
+          git push --follow-tags origin master
         continue-on-error: true
-
-      - name: No release required
+      - name: Push Success
         if: steps.versionize.outcome == 'success'
         run: echo "Outcome is success"
