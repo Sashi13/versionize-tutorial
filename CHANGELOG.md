@@ -2,6 +2,9 @@
 
 All notable changes to this project will be documented in this file. See [versionize](https://github.com/versionize/versionize) for commit guidelines.
 
+<a name="2.5.2"></a>
+## [2.5.2](https://www.github.com/Sashi13/versionize-tutorial/releases/tag/v2.5.2) (2022-7-27)
+
 <a name="2.5.1"></a>
 ## [2.5.1](https://www.github.com/Sashi13/versionize-tutorial/releases/tag/v2.5.1) (2022-7-27)
 
