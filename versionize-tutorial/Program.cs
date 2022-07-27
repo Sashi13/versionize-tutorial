@@ -8,6 +8,7 @@ namespace versionize_tutorial
         {
             Console.WriteLine("Hello World Version 2.0!");
             Console.WriteLine("Test");
+            Console.WriteLine("Test3");
         }
     }
 }
