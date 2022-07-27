@@ -31,6 +31,8 @@ namespace versionize_tutorial
             Console.WriteLine("Test23");
             Console.WriteLine("Test24 - test branch");
             Console.WriteLine("Test25");
+            Console.WriteLine("Test26");
+
 
         }
     }
