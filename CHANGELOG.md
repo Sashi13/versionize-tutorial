@@ -2,6 +2,17 @@
 
 All notable changes to this project will be documented in this file. See [versionize](https://github.com/versionize/versionize) for commit guidelines.
 
+<a name="4.1.0"></a>
+## [4.1.0](https://www.github.com/Sashi13/versionize-tutorial/releases/tag/v4.1.0) (2022-7-27)
+
+### Features
+
+* remove empty lines ([460d101](https://www.github.com/Sashi13/versionize-tutorial/commit/460d101d0104fc8bd3ecb9d451dcf0eda63f3248))
+
+### Other
+
+* updates ([fa060b1](https://www.github.com/Sashi13/versionize-tutorial/commit/fa060b1a8f38b0f25538be090fd719957ae9d680))
+
 <a name="4.0.0"></a>
 ## [4.0.0](https://www.github.com/Sashi13/versionize-tutorial/releases/tag/v4.0.0) (2022-7-27)
 
