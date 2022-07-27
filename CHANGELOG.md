@@ -2,6 +2,9 @@
 
 All notable changes to this project will be documented in this file. See [versionize](https://github.com/versionize/versionize) for commit guidelines.
 
+<a name="7.0.2"></a>
+## [7.0.2](https://www.github.com/Sashi13/versionize-tutorial/releases/tag/v7.0.2) (2022-7-27)
+
 <a name="7.0.1"></a>
 ## [7.0.1](https://www.github.com/Sashi13/versionize-tutorial/releases/tag/v7.0.1) (2022-7-27)
 
