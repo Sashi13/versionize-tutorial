@@ -2,6 +2,17 @@
 
 All notable changes to this project will be documented in this file. See [versionize](https://github.com/versionize/versionize) for commit guidelines.
 
+<a name="5.0.0"></a>
+## [5.0.0](https://www.github.com/Sashi13/versionize-tutorial/releases/tag/v5.0.0) (2022-7-27)
+
+### Bug Fixes
+
+* test ([5d43328](https://www.github.com/Sashi13/versionize-tutorial/commit/5d433282b1d6555eb541885a734e0d7594ec907d))
+
+### Breaking Changes
+
+* huge update ([3da57ae](https://www.github.com/Sashi13/versionize-tutorial/commit/3da57ae21639f2c845aebb698a8a616feea418fa))
+
 <a name="4.1.3"></a>
 ## [4.1.3](https://www.github.com/Sashi13/versionize-tutorial/releases/tag/v4.1.3) (2022-7-27)
 
