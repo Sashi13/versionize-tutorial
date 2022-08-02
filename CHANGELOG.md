@@ -2,6 +2,19 @@
 
 All notable changes to this project will be documented in this file. See [versionize](https://github.com/versionize/versionize) for commit guidelines.
 
+<a name="7.1.0"></a>
+## [7.1.0](https://www.github.com/Sashi13/versionize-tutorial/releases/tag/v7.1.0) (2022-8-2)
+
+### Features
+
+* update ([7cc5db2](https://www.github.com/Sashi13/versionize-tutorial/commit/7cc5db2e6035d0c28ca8bc32d4b182745bc037fd))
+
+### Other
+
+* Merge branch 'master' of https://github.com/Sashi13/versionize-tutorial ([595a84e](https://www.github.com/Sashi13/versionize-tutorial/commit/595a84ea2b0ba52f25677cba984eaa0aec03e793))
+* Merge pull request #2 from Sashi13/renovate/configure ([2f854cb](https://www.github.com/Sashi13/versionize-tutorial/commit/2f854cbbf09f740c70ae1bd2273efd4d77df9cd8))
+* **deps:** add renovate.json ([ed92512](https://www.github.com/Sashi13/versionize-tutorial/commit/ed92512f0c95f75ec7d25c5de17dedea30072398))
+
 <a name="7.0.3"></a>
 ## [7.0.3](https://www.github.com/Sashi13/versionize-tutorial/releases/tag/v7.0.3) (2022-7-27)
 
